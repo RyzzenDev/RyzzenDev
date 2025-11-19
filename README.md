@@ -1,6 +1,6 @@
 [![RyzzenDevheader](header.png)](https://github.com/RyzzenDev)
 
-**RyzzenDev/RyzzenDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RyzzenDev)](https://git.io/streak-stats)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31z2tm2ssnp7r5ezop3mcgxz27ie)
