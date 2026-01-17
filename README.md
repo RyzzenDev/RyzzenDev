@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, Swift, AI, Songs, Games**
 
-- ⚡ Fun fact **I make great jokes**
+- ⚡ Fun fact **I play overwatch, a LOT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
