@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryzzendev&label=Profile%20views&color=0e75b6&style=flat" alt="ryzzendev" /> </p>
 
-- 🔭 I’m currently working on maintaining and improving [Overdle](https://github.com/RyzzenDev/Overdle-API) And [OverdleWEB](https://github.com/RyzzenDev/OverdleWeb)
+- 🔭 I’m currently working on maintaining and improving [Overdle](https://github.com/RyzzenDev/Overdle-API) And [OverdleWeb](https://github.com/RyzzenDev/OverdleWeb)
 
 - 🌱 I’m currently learning **Rust**
 
