@@ -1,12 +1,12 @@
 [![RyzzenDevHeader](header.png)](https://github.com/RyzzenDev)
 
-<h3 align="center">A Young Java developer now learning Swift!</h3>
+<h3 align="center">A Young Java and Swift developer now learning Rust!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryzzendev&label=Profile%20views&color=0e75b6&style=flat" alt="ryzzendev" /> </p>
 
 - 🔭 I’m currently working on maintaining and improving [Overdle](https://github.com/RyzzenDev/Overdle-API) And [OverdleWEB](https://github.com/RyzzenDev/OverdleWeb)
 
-- 🌱 I’m currently learning **Swift and SwiftUI**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Java, Spring Boot, Swift, AI, Songs, Games**
 
